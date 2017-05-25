@@ -1,2 +1,3 @@
 # hello-world
-Learning github
+Learning github.
+I enjoy learning new things.
